@@ -1,2 +1,2 @@
 # testing-
-i am testing my reposirtory 
+i am testing my repository 
